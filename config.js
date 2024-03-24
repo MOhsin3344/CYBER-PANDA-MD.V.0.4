@@ -26,8 +26,8 @@ global.OwnerNumber = ["+923279743531", "+923279743531"];   //If you want singal 
 global.ownertag = ["+923279743531"];
 global.OwnerName = "ALONE🙂💔";
 global.BotName = "ALONE🙂💔";
-global.packname = "🦋 │ALONE│🙂💔│𝐌𝐃│𝐕➂ 🦋";                             //Do not change.
-global.author = "ALONE🙂💔";                               //Do not change.
+global.packname = ""🦋 │𝐂𝐘𝐁𝜩𝐑│𝐏𝜟𝐍𝐃𝐀│𝐌𝐃│𝐕➂ 🦋";                             //Do not change.
+global.author = "SACHITH";                               //Do not change.
 global.BotSourceCode = "https://github.com/Kai00"; //Do not change.
 global.SupportGroupLink = "https://chat.whatsapp.com/GhRGdwfaMVDCoeAdzILfl";
 
